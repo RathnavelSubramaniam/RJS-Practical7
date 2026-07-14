@@ -52,9 +52,9 @@ Welcome to React
 
 | Criteria | Marks |
 |----------|------:|
-| Uses `React.createElement()` | 30 |
-| Creates an `h1` element | 20 |
-| Displays **"Welcome to React"** | 20 |
-| Uses `ReactDOM.createRoot()` | 15 |
-| Uses `root.render()` | 15 |
-| **Total** | **100** |
+| Uses `React.createElement()` | 3 |
+| Creates an `h1` element | 2 |
+| Displays **"Welcome to React"** | 2 |
+| Uses `ReactDOM.createRoot()` | 2 |
+| Uses `root.render()` | 1 |
+| **Total** | **10** |
